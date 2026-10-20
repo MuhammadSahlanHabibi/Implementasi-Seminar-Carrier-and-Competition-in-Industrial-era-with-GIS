@@ -1,0 +1,2 @@
+# Implementasi-Seminar-Carrier-and-Competition-in-Industrial-era-with-GIS
+Analisis Cakupan Sinyal dan Deteksi Blind Spot Jaringan Wi-Fi/ODP, Implementasi ini merefleksikan cara kerja perusahaan telekomunikasi dalam mengevaluasi performa sebaran infrastruktur jaringan mereka, sehingga tim teknis dapat menentukan di mana titik tiang pemancar baru harus dibangun untuk mengatasi wilayah yang masih mengalami blind spot
